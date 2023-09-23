@@ -1,2 +1,5 @@
 # fp-go-sandbox
-Tersting fp-go
+Testing fp-go
+
+
+Reference: https://github.com/IBM/fp-go
